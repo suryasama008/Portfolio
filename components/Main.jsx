@@ -11,18 +11,18 @@ const Main = () => {
         <div>
           {/* Setting the text to uppercase, making the text size small, and making the text gray. */}
           <p className='uppercase text-sm tracking-widest text-gray-600'>
-            LET'S BUILD SOMETHING AWESOME TOGETHER
+            LET S BUILD SOMETHING AWESOME TOGETHER
           </p>
 
           <h1 className='py-4 text-gray-700'>
-            Hi, I'm <span className='text-red-600'>Surya</span>
+            Hi, Im <span className='text-red-600'>Surya</span>
           </h1>
-          <h1>A Front-End Web Developer</h1>
+          <h1>A Full Stack Web Developer</h1>
           <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
-            I'm a front-end web developer specializing in building (and
+            I am a full stack web developer specializing in building (and
             Occasionaly designing) exceptional digital experiences. I love to
             create beautiful and performant products with delightful user
-            experiences. Currently, I'm focused on building responsive front-end
+            experiences. Currently, I amm focused on building responsive front-end
             web applications while learning back-end technologies.
           </p>
           {/* Centering the div, and making sure that the div is not wider than 330px. */}

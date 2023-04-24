@@ -52,7 +52,7 @@ const Navbar = () => {
       <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16'>
         <div style={{ color: `${linkColor}` }}>
           <h3 className='text-3xl md:text-4xl font-medium '>{'<Surya/>'}</h3>
-          <h4 className='font-extralight md:text-xl'>Front-end Developer</h4>
+          <h4 className='font-extralight md:text-xl'>Full Stack Developer</h4>
         </div>
         <div>
           <ul style={{ color: `${linkColor}` }} className='hidden md:flex'>
@@ -118,7 +118,7 @@ const Navbar = () => {
             </div>
             <div className='border-b border-gray-300 my-4'>
               <p className='w-[85%] md:w-[90%]'>
-                Let's build somethig amazing together{' '}
+                Lets build somethig amazing together{' '}
               </p>
             </div>
           </div>
@@ -150,7 +150,7 @@ const Navbar = () => {
             </ul>
             <div className='pt-40'>
               <p className='uppercase tracking-widest text-indigo-500'>
-                Let's Connect
+                Lets Connect
               </p>
               <div className='flex items-center justify-between my-4 px-10 w-full sm:w-[80%]'>
                 <div className='rounded-full shadow-lg shadow-gray-300 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>

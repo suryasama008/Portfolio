@@ -19,21 +19,16 @@ making the text color indigo 500. */}
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>I am not your normal developer</p>
           <p className='text-gray-600'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
-            accusamus aliquid porro veritatis accusantium nulla voluptatum
-            aliquam nisi, laboriosam quidem nihil est illo magnam incidunt
-            veniam deserunt. Quia, est perspiciatis. Lorem ipsum dolor sit amet
-            consectetur, adipisicing elit. Consequuntur sapiente eaque nemo in,
-            dicta aut accusantium laboriosam blanditiis numquam nostrum atque
-            doloribus dolorum, cum necessitatibus eum. Aspernatur id natus
-            praesentium?
-          </p>
-
-          <p className='text-gray-600'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quam
-            accusamus quos sapiente. Veniam amet, quisquam molestiae mollitia
-            maiores eum totam illum esse, sequi officiis, modi quis ullam eius
-            aliquam!
+            I am a highly motivated and experienced Full Stack Developer with a
+            strong background in front-end development, UI design, and project
+            management. Skilled in React, Redux, Firebase, MaterialUI, React
+            Native, Node.js, and Agile methodologies, I excel at creating
+            efficient and user-friendly applications. My experience includes
+            working on inventory management systems, weather forecast
+            applications, and responsive web designs for various clients and
+            college projects. As a dedicated team player and effective
+            communicator, I strive to deliver top-quality solutions and exceed
+            client expectations.
           </p>
           <p className='py-2 text-gray-600 underline cursor-pointer'>
             Check out some of my latest projects
