@@ -27,7 +27,7 @@ const Skills = () => {
           <Skill title='CSS' src={css} />
           <Skill
             title='Javascript'
-            src='/../public/assets/skills/javascript.png'
+            src={javascript}
           />
           <Skill title='Node js' src={node}  color="gray"/>
           <Skill title='React' src={react} color = "teal" />

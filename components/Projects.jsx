@@ -23,26 +23,30 @@ const Projects = () => {
             title='Pixalbay Gallery'
             backgroundImg={gallery}
             projectUrl='https://pixabay-gallery-surya.netlify.app/'
-            tech='React JS'
+            codeUrl='https://github.com/suryasama008/react-tailwiind-pixabay-photo-gallery'
+            tech='React JS, Tailwind CSS, Pixabay API'
           />
           <ProjectItem
             title='Inventory Management System'
             backgroundImg={inventory}
             projectUrl='https://wirelessplus.netlify.app/'
-            tech='React JS'
+            codeUrl='https://github.com/suryasama008/wireless-vite'
+            tech='React JS, Bootstrap 5, Firebase'
           />
           <ProjectItem
             title='AI Chatbot'
             backgroundImg={chatbot}
             projectUrl='https://chatbotsurya.netlify.app/'
-            tech='React JS'
+            codeUrl='https://github.com/suryasama008/chatbot-2.0'
+            tech='React JS, GPT-3.5 turbo API'
           />
 
           <ProjectItem
             title='Netflix App'
             backgroundImg={netflixImg}
             projectUrl='/netflix'
-            tech='React JS'
+            codeUrl='/'
+            tech='React JS, tailwind CSS, TMDB API'
           />
         </div>
       </div>
